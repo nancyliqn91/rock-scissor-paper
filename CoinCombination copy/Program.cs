@@ -5,7 +5,7 @@ namespace CoinCombination
 {
   class Program
   {
-    static void Main()
+    static void Main( )
     {
     //   // Console.WriteLine("*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*");
     //   // Console.WriteLine("Welcome to the Shape Tracker app!");
