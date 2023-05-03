@@ -26,7 +26,7 @@ namespace Rock.Models
     {
       if(_choice1 == _choice2)
       {
-        return "tie";
+        return "ties";
       } else if( _choice1 == "rock" && _choice2 == "scissor" || _choice1 == "paper" && _choice2 == "rock" || _choice1 == "scissor" && _choice2 == "paper")
       {
         return "wins";

@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CoinCombination\CoinCombination.csproj" />  
+    <ProjectReference Include="..\Rock\Rock.csproj" />  
   </ItemGroup>
 
 </Project>
