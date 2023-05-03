@@ -7,15 +7,40 @@ namespace Rock
   {
     static void Main( )
     {
-      Console.WriteLine("Welcome to the Rock Scissor Paper Game!");
+      Console.WriteLine("Welcome to the Rock Paper Scissor Game!");
       Console.WriteLine("We'll start. Ready? Go!");
-      Console.WriteLine("Please enter : 'rock', 'scissor', or 'paper' . ");
-
-      string player1 = Console.ReadLine();  
-      Console.WriteLine("Enter another:");
-      string player2 = Console.ReadLine();  
+      
+      string player1 = EnterChoice();
+      Console.WriteLine("Enter second player's choice:");
+      string player2 = EnterChoice();  
     
       RockGame game = new RockGame(player1, player2);
+
+      Console.WriteLine("play again (Yes 'y' or No 'n')")
+      string playAgain = Console.ReadLine();
+      if(playAgain == "y" || playAgain == "Y")
+      {
+        Main();
+      } else
+      {
+        Console.WriteLine("bye!")
+      }
+
+    static string EnterChoice(){
+      bool redo = true;
+      Console.WriteLine("Please enter : 'rock', 'paper', or 'scissor' . ");
+        while(redo){
+          string playerChoice = Console.ReadLine();
+          if(playerChoice != "rock" || playerChoice != "scissor" || playerChoice != "paper")
+          {
+            Console.WriteLine("Error, Please enter correct spelling of 'rock','paper','scissor");
+          } else
+          {
+            redo = false;
+          }
+        }
+        return playerChoice;
+    }
       // Console.WriteLine(game.RPSGame());
     }
 
