@@ -1,0 +1,15 @@
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/bin/Debug/net6.0/CoinCombination
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/bin/Debug/net6.0/CoinCombination.deps.json
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/bin/Debug/net6.0/CoinCombination.runtimeconfig.json
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/bin/Debug/net6.0/CoinCombination.dll
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/bin/Debug/net6.0/CoinCombination.pdb
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/CoinCombination.csproj.AssemblyReference.cache
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/CoinCombination.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/CoinCombination.AssemblyInfoInputs.cache
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/CoinCombination.AssemblyInfo.cs
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/CoinCombination.csproj.CoreCompileInputs.cache
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/CoinCombination.dll
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/refint/CoinCombination.dll
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/CoinCombination.pdb
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/CoinCombination.genruntimeconfig.cache
+/Users/qianli/Desktop/coin-combination-github/CoinCombination/obj/Debug/net6.0/ref/CoinCombination.dll
